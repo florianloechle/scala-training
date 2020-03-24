@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d238453f-9a2d-4cbf-8b95-b99f2fa48bf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="advanced-scala" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZFvN42QbmKL3cn7GhCUx0UwyZO" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Software CIO/beus" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.FuturesAndPromises">
+    <configuration name="Concurrent" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.Concurrent" />
+      <module name="advanced-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuturesAndPromises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.FuturesAndPromises" />
+      <module name="advanced-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PimpMyLibraryWithImplicits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.PimpMyLibraryWithImplicits" />
+      <module name="advanced-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCommunication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.ThreadCommunication" />
+      <module name="advanced-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeClasses" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.TypeClasses" />
+      <module name="advanced-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FuturesAndPromises" />
+        <item itemvalue="Application.ThreadCommunication" />
+        <item itemvalue="Application.Concurrent" />
+        <item itemvalue="Application.TypeClasses" />
+        <item itemvalue="Application.PimpMyLibraryWithImplicits" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Software CIO/beam-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Software CIO/beus-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Software CIO/price" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-samples/play-scala-forms-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d238453f-9a2d-4cbf-8b95-b99f2fa48bf6" name="Default Changelist" comment="" />
+      <created>1584447612069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584447612069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1584522356972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584522356972" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584630016443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584630016443" />
+    <state width="724" height="185" key="GridCell.Tab.0.bottom" timestamp="1584716803868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584716803868" />
+    <state width="724" height="185" key="GridCell.Tab.0.center" timestamp="1584716803868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584716803868" />
+    <state width="724" height="185" key="GridCell.Tab.0.left" timestamp="1584716803868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584716803868" />
+    <state width="724" height="185" key="GridCell.Tab.0.right" timestamp="1584716803868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584716803868" />
+    <state width="724" height="267" key="GridCell.Tab.1.bottom" timestamp="1584634205377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="267" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584634205377" />
+    <state width="724" height="267" key="GridCell.Tab.1.center" timestamp="1584634205377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="267" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584634205377" />
+    <state width="724" height="267" key="GridCell.Tab.1.left" timestamp="1584634205377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="267" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584634205377" />
+    <state width="724" height="267" key="GridCell.Tab.1.right" timestamp="1584634205377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="267" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584634205377" />
+    <state x="439" y="30" key="NewModule_or_Project.wizard" timestamp="1584630007854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="30" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584630007854" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1584698489756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584698489756" />
+    <state x="828" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584691615045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="828" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584691615045" />
+    <state x="795" y="190" key="run.anything.popup" timestamp="1584708753654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="795" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584708753654" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584459194463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584459194463" />
+  </component>
+</project>
